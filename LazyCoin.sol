@@ -4,7 +4,7 @@
 //
 //
 // 
-// Lazy Coin has 7% tax split across 7 protocols
+// Lazy Coin has 7% tax split across seven protocols
 // 
 // 1. Burn
 // 2. Buyback
